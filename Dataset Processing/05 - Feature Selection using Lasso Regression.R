@@ -1,4 +1,4 @@
-#code from https://www.youtube.com/watch?v=5GZ5BHOugBQ
+#code adapted from https://www.youtube.com/watch?v=5GZ5BHOugBQ
 #github version https://github.com/davidcaughlin/R-Tutorial-Data-Files
 
 #loading data
@@ -18,7 +18,7 @@ loaded_packages  <- library()$results[,1]
 
 # confirm caret is loaded
 "caret" %in% tolower(loaded_packages)
-######Fix error - end
+######
 
 #Set seed
 set.seed(1985)
