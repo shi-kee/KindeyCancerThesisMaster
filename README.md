@@ -8,7 +8,7 @@ Not all patients from TCGA have image data and gene expression data simultaneous
 
 The datasets used in the study are uploaded in a separate directory. Not all datasets (image and gene sequence data) could be uploaded due to file size, but computed image features using CellProfiler are included. 
 
-Steps in download the Gene Sequence data
+Steps to download the Gene Sequence data
 1) Proceed to https://www.cbioportal.org/study/summary?id=kirp_tcga
 2) Select the intersection of Mutations and mRNA expression (RNA Seq V2 RSEM)
 3) Download the clinical ang genomic data of Kidney Renal Papillary Cell Carcinoma (TCGA, Firehose Legacy)
