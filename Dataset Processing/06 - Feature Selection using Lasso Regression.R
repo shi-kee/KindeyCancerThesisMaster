@@ -1,4 +1,4 @@
-#code from https://www.youtube.com/watch?v=5GZ5BHOugBQ
+#Code adapted from https://www.youtube.com/watch?v=5GZ5BHOugBQ
 #github version https://github.com/davidcaughlin/R-Tutorial-Data-Files
 
 #loading data
