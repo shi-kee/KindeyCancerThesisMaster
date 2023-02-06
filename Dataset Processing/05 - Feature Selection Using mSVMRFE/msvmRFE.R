@@ -1,4 +1,4 @@
-# Copyright (C) 2011  John Colby
+# Adapted from (C) 2011  John Colby
 # http://github.com/johncolby/SVM-RFE
 
 svmRFE.wrap <- function(test.fold, X, ...) {
